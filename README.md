@@ -41,3 +41,9 @@ to brute force login page, need a long long time
 for some system, your IP will get banned, and can be tracked
 
 and 90% password hard to guess, and not available in dictionary list, because some password is combination multiple word
+
+
+## Traktir @ibnux
+
+[<img src="https://ibnux.github.io/KaryaKarsa-button/karyaKarsaButton.png" width="128">](https://karyakarsa.com/ibnux)
+[<img src="https://ibnux.github.io/Trakteer-button/trakteer_button.png" width="120">](https://trakteer.id/ibnux)
